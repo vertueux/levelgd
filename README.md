@@ -1,6 +1,6 @@
 LevelGD is a open source terminal-based geodesic dome calculator which can be useful to develop your own 3.0 home. it is able for now, to calculate any icosahedron geodesic dome from 1V to 5V. It also has no external dependencies.
 
-> This project was initially developed with no specific goal in mind. I originally developed it because two days away from the middle school exam in France ("Le Brevet" in french), because that in the technology (IT) subject, our teacher asked us to realize a group project consisting in creating a geodesic dome, and I couldn't sleep.
+> This project was initially developed with no specific goal in mind. I originally developed it two days away from the middle school exam in France ("Le Brevet" in french), because that in the technology (IT) subject, our teacher asked us to realize a group project consisting in creating a geodesic dome, and I couldn't sleep.
 
 ![DISCORD](https://img.shields.io/badge/Contact%20me%20on%20Discord-now%239470-informational)
 
